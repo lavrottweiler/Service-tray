@@ -1,0 +1,7 @@
+# Ignore unnecessary files and directories
+
+*.pyc
+__pycache__
+venv/
+.DS_Store
+.vscode
