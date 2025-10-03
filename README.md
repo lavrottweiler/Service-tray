@@ -26,8 +26,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/service-tray.git
-cd service-tray
+git clone https://github.com/lavrottweiler/Service-tray.git
+cd Service-tray
 ```
 
 ### 2. Run the Installer
