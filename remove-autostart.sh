@@ -13,4 +13,4 @@ else
     echo "No autostart entry found."
 fi
 
-echo "✅ Service Tray autostart removed successfully. Application and icons remain intact."
+echo "✅ Service Tray autostart removed successfully. Application and dependencies remain intact."
